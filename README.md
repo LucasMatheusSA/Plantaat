@@ -35,7 +35,7 @@ Projeto pessoal de planta de pontos de energia.
 ### Dev mode
 
  - Na pasta /Back (instalar dependencias do Back).
- ``` npm server ```
+ ``` node server ```
  
  - Na pasta /Front (instalar dependencias do Front).
  ``` ng serve -o ```
